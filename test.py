@@ -1,1 +1,1 @@
-print('yaha hoga kaaaaa')
+print('yaha hoga kaa')
